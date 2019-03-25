@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\bin\Debug\TaskPlanner.Core.dll
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\bin\Debug\TaskPlanner.Core.pdb
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\obj\Debug\TaskPlanner.Core.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\obj\Debug\TaskPlanner.Core.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\obj\Debug\TaskPlanner.Core.dll
+C:\Users\Owner\source\repos\TaskPlanner.Core\TaskPlanner.Core\obj\Debug\TaskPlanner.Core.pdb
